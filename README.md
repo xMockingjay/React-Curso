@@ -15,3 +15,9 @@ Este repositório contém todos os projetos desenvolvidos ao longo do curso de [
 * Aprenda o essencial do JavaScript ES6+
 * Aprenda Autenticação de usuários com Strapi, Next Js e NextAuth Js (Sessions e JWT Token com cookies httpOnly)
 * Comandos de terminal Unix (Extra)
+
+## Linguagens utilizadas:
+<img align="center" alt="carol-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> - <img align="center" alt="carol-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> - <img align="center" alt="carol-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> - <img align="center" alt="carol-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> - <img align="center" alt="carol-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+          
+          
+          
