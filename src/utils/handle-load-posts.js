@@ -1,4 +1,4 @@
-export async function loadPosts() {
+export async function handleLoadPosts() {
     const postsResponse = fetch('https://jsonplaceholder.typicode.com/posts');
     const photosResponse = fetch('https://jsonplaceholder.typicode.com/photos');
 
